@@ -1,4 +1,4 @@
-## Olá, eu sou o Wesley Kleim
+## Olá, eu sou o Wesley Kleim 🖐
 
 - 🔭 Hoje procuro uma oportunidade de estágio em front-end
 - 🌱 Estudo ADS-FIAP
