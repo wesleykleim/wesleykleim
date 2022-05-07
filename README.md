@@ -24,7 +24,7 @@
 <div>
    <a href = "mailto:wesleykleimdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/wesley-kleim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.youtube.com/channel/UCcMUpiMbKK7lHIZ-5grV7IA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/watch?v=STj8CSS_jjw&list=PLgwXVdcPW8Kwei6V_IU2sidbv_y9YVtWG&index=2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
 <div/>
 
