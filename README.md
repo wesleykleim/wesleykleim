@@ -1,8 +1,8 @@
-## Olá, eu sou o Wesley Kleim 🖐
+## Hello, I'm Wesley Kleim 🖐
 
-- 🔭 Hoje procuro uma oportunidade de estágio em front-end
-- 🌱 Estudo ADS-FIAP
-- 😄 Pronouns: ele/dele
+- Today I am looking for a front-end internship opportunity
+- 🌱 ADS-FIAP Study
+- 😄 Pronouns: he/it
 
 <div align="center">
   <a href="https://github.com/wesleykleim">
